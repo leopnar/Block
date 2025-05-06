@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/okkidwi/YouTube-Live-Chat-Judi-Online-Blocker/refs/heads/main/images/icon-youtube-live-chat-judi-online-blocker.png" alt="Gambar" />
-</p>
+
 
 <h1 align="center">YouTube Live Chat Judi Online Blocker</h1>
 
